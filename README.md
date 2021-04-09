@@ -10,4 +10,4 @@
 
 ### [perlin noise](https://github.com/alexthescott/processing_experiments/tree/main/perlin_noise_py) 
 
-<img src="./perlin_noise_py/perlin_1d_0/perlin_1d_0.gif">
+<img height="200" src="./perlin_noise_py/perlin_1d_0/perlin_1d_0.gif">
